@@ -84,11 +84,11 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan077&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanDehraj&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohan077&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanDehraj&layout=compact&theme=radical" />
 </p>
 
 ---
