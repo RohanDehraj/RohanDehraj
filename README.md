@@ -17,7 +17,7 @@
 ### 🌐 Connect with me  
 - 💼 LinkedIn: https://linkedin.com/in/rohan
 - 💻 GitHub: https://github.com/Rohan077
-- 🧠 LeetCode: https://leetcode.com/Rohan077
+- 🧠 LeetCode: https://leetcode.com/u/Rohan_077/
 
 ---
 
