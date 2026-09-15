@@ -1,3 +1,7 @@
+# 👋 Hi, I'm Rohan
+
+### 💻 Software Engineer | Full-Stack Developer | Java & Spring Boot | React | Flutter
+
 # 💫 About Me:
 🔭 I’m currently working on full-stack applications and real-world software projects, primarily using Flutter, Firebase and modern state-management patterns. I’m also expanding into Java and Spring Boot to strengthen my backend development skills.<br><br>👯 I’m looking to collaborate on open-source projects, full-stack applications and products that solve practical problems. I’m especially interested in opportunities where I can contribute across the stack and learn from experienced engineers.<br><br>🤝 I’m looking for help with system design, scalable backend architecture, database design and understanding the engineering practices used to build and maintain production-grade systems.<br><br>🌱 I’m currently learning Java, Spring Boot, DSA, System Design, REST APIs, databases and backend architecture, with a goal of becoming a stronger full-stack engineer.<br><br>💬 Ask me about Flutter, Dart, Java, Firebase, Riverpod, REST APIs, client-side routing, state management and the projects I’ve built while solving real-world development problems.<br><br>⚡ Fun fact: I learn by building — I enjoy taking a real problem, figuring out why it exists, and turning the solution into a working product rather than just learning the theory.
 
