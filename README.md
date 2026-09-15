@@ -1,98 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rohan </h1>
-<h3 align="center">💻 Frontend Developer | MERN Stack Learner | Problem Solver</h3>
+# 💫 About Me:
+🔭 I’m currently working on full-stack applications and real-world software projects, primarily using Flutter, Firebase and modern state-management patterns. I’m also expanding into Java and Spring Boot to strengthen my backend development skills.<br><br>👯 I’m looking to collaborate on open-source projects, full-stack applications and products that solve practical problems. I’m especially interested in opportunities where I can contribute across the stack and learn from experienced engineers.<br><br>🤝 I’m looking for help with system design, scalable backend architecture, database design and understanding the engineering practices used to build and maintain production-grade systems.<br><br>🌱 I’m currently learning Java, Spring Boot, DSA, System Design, REST APIs, databases and backend architecture, with a goal of becoming a stronger full-stack engineer.<br><br>💬 Ask me about Flutter, Dart, Java, Firebase, Riverpod, REST APIs, client-side routing, state management and the projects I’ve built while solving real-world development problems.<br><br>⚡ Fun fact: I learn by building — I enjoy taking a real problem, figuring out why it exists, and turning the solution into a working product rather than just learning the theory.
 
----
 
-### 👨‍💻 About Me  
-- 🎓 Final-year **B.Tech Computer Engineering (Data Science)** student  
-- 💻 Strong focus on **Frontend Development (React.js, JavaScript, UI design)**  
-- 🌱 Currently learning **Backend Development (Node.js, Express.js, MongoDB)**  
-- 🧠 Strong foundation in **Data Structures & Algorithms**  
-- 🚀 Building **full stack real-world applications**
-- 💬 Ask me about **React, JavaScript, REST APIs, Authentication, DSA**
-- 📫 Reach me at **rohandehraj1@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 📊 GitHub Stats
 
----
+![GitHub Stats](./profile/stats.svg)
 
-### 🌐 Connect with me  
-- 💼 LinkedIn: https://www.linkedin.com/in/rohan-a694642b7/
-- 💻 GitHub: https://github.com/RohanDehraj
----
+![Top Languages](./profile/top-langs.svg)
 
-### 🌟 Projects  
-
-#### 🚀 Job Portal Web Application
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-- Full-stack job portal where users can browse jobs, post listings and apply  
-- Implemented secure authentication using **JWT & bcrypt**
-- Responsive UI using **React Router & Bootstrap**
-- Deployed using **Vercel (Frontend)** and **Render (Backend)**
-
-#### 🚗 RideKaro – Urban Commuting Platform
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-- Platform for **cab booking and carpool ride sharing**
-- Built scalable backend with **RESTful architecture**
-- Implemented **ride publishing & seat booking system**
-- Designed responsive frontend with **form validation**
-
----
-
-### 🛠️ Tech Stack  
-
-#### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Bootstrap
-- Responsive UI Design
-
-#### ⚙️ Backend (Learning & Building)
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-
-#### 🧠 Programming Languages
-- Java
-- Python
-- JavaScript
-
-#### 🛠️ Tools
-- Git
-- GitHub
-- VS Code
-
-#### 📚 CS Fundamentals
-- Data Structures & Algorithms
-- OOP
-- DBMS
-- Operating Systems
-- Computer Networks
-
----
-
-### 🏆 Achievements
-- Solved **200+ DSA problems** on LeetCode, GeeksforGeeks & CodeChef
-- Achieved **1400+ rating on CodeChef (2⭐ Coder)**
-- Built **real-world full stack applications**
-- Strong understanding of **problem solving & system design fundamentals**
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanDehraj&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanDehraj&layout=compact&theme=radical" />
-</p>
-
----
-
-### ⚡ Current Focus
-- Improving **Frontend architecture skills**
-- Learning **Advanced Backend concepts**
-- Practicing **DSA daily**
-- Contributing to **real-world projects**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
