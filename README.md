@@ -20,20 +20,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer focused on building **full-stack applications, production-ready features, and scalable software solutions**.
-
-- 🔭 Currently working on **real-world software applications using Flutter, Dart & Firebase**
-- 🌐 Building and exploring **full-stack applications with React, Node.js and modern web technologies**
-- ⚙️ Expanding my backend expertise with **Java, Spring Boot, REST APIs and database architecture**
-- 🧩 Experienced in **client-side routing, state management, offline-first workflows and data synchronization**
-- 🧠 Strengthening my **Data Structures & Algorithms and problem-solving skills**
-- 🌱 Currently learning **Spring Boot, System Design, Backend Architecture and scalable application development**
-- 🤝 Looking to collaborate on **open-source, full-stack and real-world software projects**
-- 💬 Ask me about **Flutter, Dart, React, Java, Firebase, Riverpod, REST APIs, state management and DSA**
-- ⚡ Fun fact: **I learn best by building — I enjoy taking real-world problems and turning them into working software.**
-
----
-
+- 🔭 Software Engineer building **real-world full-stack applications** with Flutter, React & Firebase
+- ⚙️ Exploring **Java, Spring Boot, REST APIs & backend architecture**
+- 🧩 Experienced with **state management, routing, offline-first workflows & data synchronization**
+- 🧠 Strengthening **DSA, problem-solving & system design** skills
+- 🚀 I enjoy **building practical products and solving real-world engineering problems**
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
