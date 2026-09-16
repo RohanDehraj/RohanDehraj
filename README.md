@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square" />
+  <a href="https://github.com/RohanDehraj">
+    <img src="https://img.shields.io/github/followers/RohanDehraj?label=Followers&style=flat-square" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square" />
+
+  <a href="https://github.com/RohanDehraj">
+    <img src="https://img.shields.io/github/stars/RohanDehraj?label=Stars&style=flat-square" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=Profile+Views" />
-  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=RohanDehraj&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
